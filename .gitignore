@@ -21,3 +21,6 @@ jflex*.jar
 # cloned repos for test generation
 commonmark-spec/
 cmark-gfm/
+
+# Kotlin 2.0
+.kotlin
